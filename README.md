@@ -1,1 +1,1 @@
-# -Proyecto-CORTEX-Asistente-Deudas-Cr-dito
+# -Proyecto-CORTEX-Asistente-Deudas-crédito
