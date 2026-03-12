@@ -20,3 +20,8 @@ Necesita explicar términos técnicos de forma clara y rigurosa, estructurar arg
 - Emoción (6/10)
 Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés financiero del usuario, manteniendo un tono profesional y no terapéutico.
 
+# -Plan de Trabajo Fase 2: "Los Sentidos del Agente" (Inputs & Filtros)
+- Semana 4
+<img width="401" height="922" alt="image" src="https://github.com/user-attachments/assets/f605d297-25fa-4f4e-a771-6c623fe9b091" />
+
+
