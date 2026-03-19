@@ -1,3 +1,4 @@
+
 # -Proyecto-CORTEX-Asistente-Deudas-crédito
 ## Integrantes
 - Joseph Santiago Piña Torres
@@ -24,4 +25,12 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 - Semana 4
 <img width="401" height="922" alt="image" src="https://github.com/user-attachments/assets/f605d297-25fa-4f4e-a771-6c623fe9b091" />
 
+# -Diagrama de Flujo Perceptivo (Miro)
+- Semana 5
+<img width="1773" height="637" alt="Captura de pantalla 2026-03-19 103614" src="https://github.com/user-attachments/assets/597aa2f2-5e1f-4125-adf2-afa2a8b1359b" />
+
+# -Diseñando el "Gatekeeper" (GitHub)
+- Semana 6
+<img width="687" height="658" alt="Captura de pantalla 2026-03-19 104055" src="https://github.com/user-attachments/assets/8578b8c8-e564-4837-8c7e-91fbf61a06b9" />
+<img width="402" height="838" alt="Captura de pantalla 2026-03-19 104132" src="https://github.com/user-attachments/assets/ccf77597-80c5-4747-8cb7-637dff0cc867" />
 
