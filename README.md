@@ -34,3 +34,7 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 <img width="687" height="658" alt="Captura de pantalla 2026-03-19 104055" src="https://github.com/user-attachments/assets/8578b8c8-e564-4837-8c7e-91fbf61a06b9" />
 <img width="402" height="838" alt="Captura de pantalla 2026-03-19 104132" src="https://github.com/user-attachments/assets/ccf77597-80c5-4747-8cb7-637dff0cc867" />
 
+# -El Disco Duro
+- Semana 7
+<img width="1857" height="943" alt="image" src="https://github.com/user-attachments/assets/e5e8e531-4c1f-447d-ab29-561ac248e5e0" />
+
