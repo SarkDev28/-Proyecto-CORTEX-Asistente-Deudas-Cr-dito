@@ -38,3 +38,8 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 - Semana 7
 <img width="1857" height="943" alt="image" src="https://github.com/user-attachments/assets/e5e8e531-4c1f-447d-ab29-561ac248e5e0" />
 
+# - La RAM Cognitiva
+- Semana 8
+<img width="1936" height="738" alt="image" src="https://github.com/user-attachments/assets/33686bdb-b83c-45b3-aca7-4ebc5e5c3821" />
+
+
