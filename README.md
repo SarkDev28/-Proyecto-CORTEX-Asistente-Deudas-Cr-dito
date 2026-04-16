@@ -45,48 +45,18 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 # -El Bibliotecario
 - Semana 9
 
-[START]
-   ↓
-[Nueva Pregunta del Usuario]
-   ↓
-[Normalizar Input]
-(Limpiar texto + detectar intención + keywords)
-   ↓
-{¿Está la respuesta en RAM?}
-   ↓                ↓
-  Sí               No
-   ↓                ↓
-[Responder]   [Buscar en LTM]
-                   ↓
-          [Convertir a embeddings / keywords]
-                   ↓
-          [Buscar en base de conocimiento]
-                   ↓
-          [Rankear resultados]
-                   ↓
-          [Seleccionar Top 3-5]
-                   ↓
-          [Construir contexto]
-                   ↓
-               ↓
-        [Generar respuesta]
-               ↓
-        [Actualizar RAM]
-               ↓
-{¿RAM excede límite?}
-   ↓                ↓
-  Sí               No
-   ↓                ↓
-[Eliminar antiguo]   ↓
-   ↓                ↓
-        [Esperar siguiente input]
-               ↓
-{¿Timeout 10 min?}
-   ↓                ↓
-  Sí               No
-   ↓                ↓
-[Limpiar RAM]   [Mantener RAM]
-   ↓
-[END]
+| Paso | Componente        | Descripción |
+| :--- | :---------------- | :---------- |
+| 1 | **Entrada** | Recepción de la pregunta. Limpieza de texto, normalización y detección de intención y keywords. |
+| 2 | **Validación RAM** | Se verifica si la respuesta ya existe en la memoria activa (contexto reciente). |
+| 3 | **Decisión** | Si la respuesta está en RAM → responder. Si no → continuar a LTM. |
+| 4 | **Consulta LTM** | Conversión a embeddings o keywords para búsqueda en la base de conocimiento. |
+| 5 | **Ranking** | Ordenar resultados según relevancia semántica. |
+| 6 | **Selección de Contexto** | Elegir los 3 a 5 resultados más relevantes. |
+| 7 | **Construcción** | Combinar pregunta + datos de RAM + resultados de LTM. |
+| 8 | **Respuesta** | Generación de la respuesta final. |
+| 9 | **Actualización RAM** | Guardar la interacción actual en memoria activa. |
+| 10 | **Control de Límite** | Si se supera el límite de tokens → eliminar datos antiguos (FIFO). |
+| 11 | **Timeout** | Si hay 10 minutos de inactividad → limpiar completamente la RAM. |
 
 
