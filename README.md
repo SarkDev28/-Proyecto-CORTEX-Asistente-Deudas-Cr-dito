@@ -42,4 +42,36 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 - Semana 8
 <img width="1936" height="738" alt="image" src="https://github.com/user-attachments/assets/33686bdb-b83c-45b3-aca7-4ebc5e5c3821" />
 
+# -El Bibliotecario
+- Semana 9
+
+Flujo de Recuperación
+Objetivo
+
+Definir cómo el sistema responde preguntas usando memoria de corto plazo (RAM) y largo plazo (LTM).
+
+Flujo
+Entrada de usuario
+Se recibe la pregunta.
+Se normaliza el input (limpieza, intención, keywords).
+Consulta en RAM
+Se revisa si la respuesta existe en el contexto actual.
+Si existe → responder directamente.
+Si no → consultar LTM.
+Búsqueda en LTM
+Convertir pregunta a embeddings o keywords.
+Buscar coincidencias en base de conocimiento.
+Rankear resultados por relevancia.
+Recuperación de contexto
+Seleccionar Top 3–5 resultados más relevantes.
+Generación de respuesta
+Combinar:
+Pregunta original
+Contexto RAM
+Datos recuperados de LTM
+Actualización de memoria
+Guardar interacción en RAM.
+Mantener ventana de contexto optimizada.
+<
+
 
