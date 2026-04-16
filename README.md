@@ -45,33 +45,48 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 # -El Bibliotecario
 - Semana 9
 
-Flujo de Recuperación
-Objetivo
-
-Definir cómo el sistema responde preguntas usando memoria de corto plazo (RAM) y largo plazo (LTM).
-
-Flujo
-Entrada de usuario
-Se recibe la pregunta.
-Se normaliza el input (limpieza, intención, keywords).
-Consulta en RAM
-Se revisa si la respuesta existe en el contexto actual.
-Si existe → responder directamente.
-Si no → consultar LTM.
-Búsqueda en LTM
-Convertir pregunta a embeddings o keywords.
-Buscar coincidencias en base de conocimiento.
-Rankear resultados por relevancia.
-Recuperación de contexto
-Seleccionar Top 3–5 resultados más relevantes.
-Generación de respuesta
-Combinar:
-Pregunta original
-Contexto RAM
-Datos recuperados de LTM
-Actualización de memoria
-Guardar interacción en RAM.
-Mantener ventana de contexto optimizada.
-<
+[START]
+   ↓
+[Nueva Pregunta del Usuario]
+   ↓
+[Normalizar Input]
+(Limpiar texto + detectar intención + keywords)
+   ↓
+{¿Está la respuesta en RAM?}
+   ↓                ↓
+  Sí               No
+   ↓                ↓
+[Responder]   [Buscar en LTM]
+                   ↓
+          [Convertir a embeddings / keywords]
+                   ↓
+          [Buscar en base de conocimiento]
+                   ↓
+          [Rankear resultados]
+                   ↓
+          [Seleccionar Top 3-5]
+                   ↓
+          [Construir contexto]
+                   ↓
+               ↓
+        [Generar respuesta]
+               ↓
+        [Actualizar RAM]
+               ↓
+{¿RAM excede límite?}
+   ↓                ↓
+  Sí               No
+   ↓                ↓
+[Eliminar antiguo]   ↓
+   ↓                ↓
+        [Esperar siguiente input]
+               ↓
+{¿Timeout 10 min?}
+   ↓                ↓
+  Sí               No
+   ↓                ↓
+[Limpiar RAM]   [Mantener RAM]
+   ↓
+[END]
 
 
