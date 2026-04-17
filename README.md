@@ -102,7 +102,7 @@ Si este bot fuera una persona, sería como un **asesor financiero cercano pero f
 # Leyendo entre líneas 
 - Semana 11
 
-<img width="1366" height="768" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/e0f56298-4c74-49f2-8f31-fe55fecee1bd" />
+<img width="843" height="708" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/525abab7-844c-4b98-ba29-17bc967065ce" />
 
 
 # El Guion Maestro
