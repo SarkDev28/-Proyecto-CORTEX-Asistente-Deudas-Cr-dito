@@ -99,8 +99,11 @@ Si este bot fuera una persona, sería como un **asesor financiero cercano pero f
 | Generar sensación de control y claridad | Generar miedo o más ansiedad |
 
 
-# - Leyendo entre líneas 
+# Leyendo entre líneas 
 - Semana 11
+
+<img width="1366" height="768" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/e0f56298-4c74-49f2-8f31-fe55fecee1bd" />
+
 
 # El Guion Maestro
 - Semana 12
