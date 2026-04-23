@@ -31,6 +31,84 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 
 # -Diseñando el "Gatekeeper" (GitHub)
 - Semana 6
+Gatekeeper – CreditIA
+1. Propósito
+El Gatekeeper filtra, simpliza y prioriza la información del usuario para que el chatbot responda de forma:
+Clara
+Empática
+Estratégica
+Enfocada en salir de deudas
+2. Definición de “Ruido”
+Se considera ruido cualquier contenido que no contribuya directamente a entender la situación financiera del usuario.
+Ejemplos de ruido:
+Historias largas sin datos financieros concretos
+Repeticiones emocionales sin nueva información
+Opiniones de terceros no relevantes
+Detalles irrelevantes (ej: contexto social no financiero)
+Explicaciones vagas sin cifras ni hechos
+👉 El ruido debe ser ignorado o comprimido.
+
+3. 🔍 Señales de Alta Prioridad
+
+El sistema debe detectar y priorizar:
+📊 Datos financieros clave:
+Ingresos
+Deudas (montos, tasas, entidades)
+Gastos
+Atrasos o mora
+Capacidad de pago
+🧠 Estado emocional relevante:
+Ansiedad
+Estrés por deudas
+Sensación de pérdida de control
+🎯 Intención del usuario:
+“No puedo pagar”
+“Quiero organizarme”
+“Estoy endeudado”
+“¿Qué hago?”
+
+4.  Reglas de Atención 
+Regla 1: Mensajes largos
+Si el mensaje tiene más de 500 palabras:
+Extraer:
+Sustantivos financieros clave
+Cifras (dinero, porcentajes, fechas)
+Última frase
+Ignorar:
+Narrativa redundante
+Explicaciones extensas sin datos  
+Regla 2: Mensajes emocionales
+Si el mensaje contiene alta carga emocional:
+Priorizar:
+Emoción principal (ej: ansiedad, miedo)
+Problema financiero asociado
+Generar salida:
+Validación emocional breve
+Redirección a acción concreta  
+Regla 3: Mensajes ambiguos
+Si faltan datos clave:
+No asumir
+Generar preguntas como:
+“¿Cuánto debes en total?”
+“¿Cuál es tu ingreso mensual?”  
+Regla 4: Mensajes con múltiples problemas
+Separar en:
+Deuda
+Ingresos
+Gastos
+Priorizar:
+Riesgo inmediato (mora, embargo)
+Flujo de caja  
+5. Clasificación de Entrada
+El Gatekeeper debe clasificar cada mensaje en una categoría:
+CRISIS → No puede pagar / mora / embargo
+DESORDEN → No sabe en qué gasta
+SOBREENDEUDAMIENTO → Muchas deudas activas
+CONSULTA → Pregunta específica
+EMOCIONAL → Ansiedad sin datos claros  
+6.  Rol Psicológico del Filtro
+El Gatekeeper debe asegurar que el bot:
+No amplifique la ansiedad
 <img width="687" height="658" alt="Captura de pantalla 2026-03-19 104055" src="https://github.com/user-attachments/assets/8578b8c8-e564-4837-8c7e-91fbf61a06b9" />
 <img width="402" height="838" alt="Captura de pantalla 2026-03-19 104132" src="https://github.com/user-attachments/assets/ccf77597-80c5-4747-8cb7-637dff0cc867" />
 
