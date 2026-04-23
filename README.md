@@ -56,7 +56,7 @@ Datos financieros clave: Ingresos, Deudas (montos, tasas, entidades), Gastos, At
 
 Estado emocional relevante: Ansiedad, Estrés por deudas, Sensación de pérdida de control
 
-- Intención del usuario: “No puedo pagar” , “Quiero organizarme” , “Estoy endeudado” , “¿Qué hago?”
+Intención del usuario: “No puedo pagar” , “Quiero organizarme” , “Estoy endeudado” , “¿Qué hago?”
 
 ### 4.  Reglas de Atención 
 
