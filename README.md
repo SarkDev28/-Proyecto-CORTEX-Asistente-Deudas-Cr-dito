@@ -29,7 +29,7 @@ Aunque es un sistema técnico, debe mostrar empatía moderada ante el estrés fi
 - Semana 5
 <img width="1773" height="637" alt="Captura de pantalla 2026-03-19 103614" src="https://github.com/user-attachments/assets/597aa2f2-5e1f-4125-adf2-afa2a8b1359b" />
 
-# -Diseñando el "Gatekeeper" (GitHub)
+# -Diseñando el "Gatekeeper"
 - Semana 6
 Gatekeeper – CreditIA
 1. Propósito
@@ -46,9 +46,9 @@ Repeticiones emocionales sin nueva información
 Opiniones de terceros no relevantes
 Detalles irrelevantes (ej: contexto social no financiero)
 Explicaciones vagas sin cifras ni hechos
-👉 El ruido debe ser ignorado o comprimido.
+- El ruido debe ser ignorado o comprimido.
 
-3. 🔍 Señales de Alta Prioridad
+3.  Señales de Alta Prioridad
 
 El sistema debe detectar y priorizar:
 
@@ -61,7 +61,7 @@ Capacidad de pago
 
 🧠 Estado emocional relevante: Ansiedad, Estrés por deudas, Sensación de pérdida de control
 
-🎯 Intención del usuario: “No puedo pagar” , “Quiero organizarme” , “Estoy endeudado” , “¿Qué hago?”
+- Intención del usuario: “No puedo pagar” , “Quiero organizarme” , “Estoy endeudado” , “¿Qué hago?”
 
 4.  Reglas de Atención 
 Regla 1: Mensajes largos
