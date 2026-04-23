@@ -50,7 +50,7 @@ Explicaciones vagas sin cifras ni hechos
 
 ### 3.  Señales de Alta Prioridad
 
-El sistema debe detectar y priorizar:
+## El sistema debe detectar y priorizar:
 
 ### Datos financieros clave:
 Ingresos
