@@ -73,6 +73,7 @@ Cifras (dinero, porcentajes, fechas)
 Ignorar:
 Narrativa redundante
 Explicaciones extensas sin datos  
+
 Regla 2: Mensajes emocionales
 Si el mensaje contiene alta carga emocional:
 Priorizar:
@@ -81,12 +82,14 @@ Problema financiero asociado
 Generar salida:
 Validación emocional breve
 Redirección a acción concreta  
+
 Regla 3: Mensajes ambiguos
 Si faltan datos clave:
 No asumir
 Generar preguntas como:
 “¿Cuánto debes en total?”
 “¿Cuál es tu ingreso mensual?”  
+
 Regla 4: Mensajes con múltiples problemas
 Separar en:
 Deuda
@@ -95,6 +98,7 @@ Gastos
 Priorizar:
 Riesgo inmediato (mora, embargo)
 Flujo de caja  
+
 5. Clasificación de Entrada
 El Gatekeeper debe clasificar cada mensaje en una categoría:
 CRISIS → No puede pagar / mora / embargo
