@@ -230,3 +230,5 @@ Si este bot fuera una persona, sería como un **asesor financiero cercano pero f
 - Enfoque en soluciones prácticas  
 - Motivación sin generar falsas expectativas  
 
+## - Demo de CreditIA
+https://credit-intelligence--kamilogamarra.replit.app/
