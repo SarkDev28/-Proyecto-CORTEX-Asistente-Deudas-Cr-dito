@@ -50,16 +50,11 @@ Explicaciones vagas sin cifras ni hechos
 
 ### 3.  Señales de Alta Prioridad
 
-## El sistema debe detectar y priorizar:
+* El sistema debe detectar y priorizar:
 
-### Datos financieros clave:
-Ingresos
-Deudas (montos, tasas, entidades)
-Gastos
-Atrasos o mora
-Capacidad de pago
+Datos financieros clave: Ingresos, Deudas (montos, tasas, entidades), Gastos, Atrasos o mora, Capacidad de pago
 
-### Estado emocional relevante: Ansiedad, Estrés por deudas, Sensación de pérdida de control
+Estado emocional relevante: Ansiedad, Estrés por deudas, Sensación de pérdida de control
 
 - Intención del usuario: “No puedo pagar” , “Quiero organizarme” , “Estoy endeudado” , “¿Qué hago?”
 
