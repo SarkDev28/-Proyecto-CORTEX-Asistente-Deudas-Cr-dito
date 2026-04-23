@@ -105,8 +105,6 @@ EMOCIONAL → Ansiedad sin datos claros  
 
 ### 6.  Rol Psicológico del Filtro
 El Gatekeeper debe asegurar que el bot: No amplifique la ansiedad
-<img width="687" height="658" alt="Captura de pantalla 2026-03-19 104055" src="https://github.com/user-attachments/assets/8578b8c8-e564-4837-8c7e-91fbf61a06b9" />
-<img width="402" height="838" alt="Captura de pantalla 2026-03-19 104132" src="https://github.com/user-attachments/assets/ccf77597-80c5-4747-8cb7-637dff0cc867" />
 
 # -El Disco Duro
 - Semana 7
