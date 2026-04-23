@@ -1,4 +1,3 @@
-
 # -Proyecto-CORTEX-Asistente-Deudas-crédito
 ## Integrantes
 - Joseph Santiago Piña Torres
@@ -112,7 +111,7 @@ El Gatekeeper debe asegurar que el bot: No amplifique la ansiedad
 
 # - La RAM Cognitiva
 - Semana 8
-<img width="1936" height="738" alt="image" src="https://github.com/user-attachments/assets/33686bdb-b83c-45b3-aca7-4ebc5e5c3821" />
+<img width="1834" height="530" alt="Captura de pantalla 2026-04-23 092606" src="https://github.com/user-attachments/assets/7c1dd2a0-c2a4-4a54-8957-7894f52c9fcf" />
 
 # -El Bibliotecario
 - Semana 9
