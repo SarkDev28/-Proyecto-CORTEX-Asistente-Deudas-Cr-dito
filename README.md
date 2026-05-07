@@ -280,3 +280,24 @@ CreditIA debe comunicarse sin avergonzar, ridiculizar o culpabilizar al usuario 
 
 ## - Demo de CreditIA
 https://credit-intelligence--kamilogamarra.replit.app/
+
+function resolverProblema(problema):
+
+    categoria = clasificar(problema)
+
+    datos = recopilarInformacion(problema)
+
+    IF datos son insuficientes:
+        solicitarMasInformacion()
+
+    causa = detectarCausaRaiz(datos)
+
+    soluciones = generarSoluciones(causa)
+
+    solucionesValidas = filtrar(soluciones)
+
+    mejorSolucion = seleccionar(solucionesValidas)
+
+    pasos = generarPasos(mejorSolucion)
+
+    return pasos
