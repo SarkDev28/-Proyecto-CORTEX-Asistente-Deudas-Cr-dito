@@ -302,4 +302,13 @@ IF "problema" en mensaje:
         IF tipo == ahorro AND ahorro < meta:
             ejecutar plan_ahorro
 
-        THEN entregar_solucion
+        THEN entregar_solucion.
+
+        
+<img width="1558" height="863" alt="Captura de pantalla 2026-05-07 102449" src="https://github.com/user-attachments/assets/c8c47485-938b-47b0-9ae0-c0ed78b62095" />
+
+## 🌲 Seamana 15: Dry Run
+<img width="832" height="974" alt="Captura de pantalla 2026-05-07 102354" src="https://github.com/user-attachments/assets/bade8239-5fa7-48e6-951e-fa089fd31576" />
+
+
+
