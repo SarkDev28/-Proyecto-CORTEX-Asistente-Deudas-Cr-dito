@@ -281,7 +281,7 @@ CreditIA debe comunicarse sin avergonzar, ridiculizar o culpabilizar al usuario 
 ## - Demo de CreditIA
 https://credit-intelligence--kamilogamarra.replit.app/
 
-Seamana 13: Arbol de Desición
+## 🌲 Seamana 13: Arbol de Desición
 
 IF "problema" en mensaje:
     tipo = clasificar()
