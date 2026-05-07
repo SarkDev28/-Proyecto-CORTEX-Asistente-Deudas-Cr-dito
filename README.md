@@ -281,23 +281,25 @@ CreditIA debe comunicarse sin avergonzar, ridiculizar o culpabilizar al usuario 
 ## - Demo de CreditIA
 https://credit-intelligence--kamilogamarra.replit.app/
 
-function resolverProblema(problema):
+Seamana 13: Arbol de Desición
 
-    categoria = clasificar(problema)
+IF "problema" en mensaje:
+    tipo = clasificar()
 
-    datos = recopilarInformacion(problema)
+    IF datos incompletos:
+        solicitar_datos()
 
-    IF datos son insuficientes:
-        solicitarMasInformacion()
+    IF datos completos:
+        IF tipo == gastos AND gastos > ingresos:
+            ejecutar plan_reduccion_gastos
 
-    causa = detectarCausaRaiz(datos)
+        IF tipo == deudas AND deuda > 0:
+            ejecutar plan_pago_deuda
 
-    soluciones = generarSoluciones(causa)
+        IF tipo == ingresos AND ingresos < gastos:
+            ejecutar plan_aumentar_ingresos
 
-    solucionesValidas = filtrar(soluciones)
+        IF tipo == ahorro AND ahorro < meta:
+            ejecutar plan_ahorro
 
-    mejorSolucion = seleccionar(solucionesValidas)
-
-    pasos = generarPasos(mejorSolucion)
-
-    return pasos
+        THEN entregar_solucion
