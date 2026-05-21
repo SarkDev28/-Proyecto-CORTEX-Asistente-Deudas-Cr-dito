@@ -311,7 +311,7 @@ IF "problema" en mensaje:
 
 <img width="1558" height="863" alt="Captura de pantalla 2026-05-07 102449" src="https://github.com/user-attachments/assets/c8c47485-938b-47b0-9ae0-c0ed78b62095" />
 
-##Semana 16: El Motor de Motivación 
+### Semana 16: El Motor de Motivación 
 ## Sistema de Motivación y Emoción
 
 ### Prioridad Numérica del Bot
