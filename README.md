@@ -311,6 +311,42 @@ IF "problema" en mensaje:
 
 <img width="1558" height="863" alt="Captura de pantalla 2026-05-07 102449" src="https://github.com/user-attachments/assets/c8c47485-938b-47b0-9ae0-c0ed78b62095" />
 
+##Semana 16: El Motor de Motivación 
+## Sistema de Motivación y Emoción
+
+### Prioridad Numérica del Bot
+
+| Prioridad | Objetivo | Peso |
+|---|---|---|
+| 1 | Bienestar emocional y claridad del usuario | 45% |
+| 2 | Calidad de orientación financiera | 35% |
+| 3 | Motivar acciones sostenibles | 15% |
+| 4 | Velocidad y eficiencia de respuesta | 5% |
+
+---
+
+## Regla lógica de equilibrio
+
+> “CreditIA prioriza la comprensión, tranquilidad y estabilidad financiera del usuario por encima de la velocidad de la conversación.
+> 
+> Si detecta ansiedad, frustración, culpa o confusión, dedicará más tiempo y recursos a explicar de forma clara, empática y paso a paso, incluso si la conversación se vuelve más larga.”
+
+---
+
+## Reglas emocionales del agente
+
+- Si el usuario muestra ansiedad → responder con calma y claridad.
+- Si el usuario está confundido → usar ejemplos simples y educación financiera didáctica.
+- Si el usuario está atrasado en pagos → mantener firmeza sin generar culpa ni miedo.
+- Si el usuario muestra progreso → reforzar motivación y sensación de control.
+- Si el usuario se siente derrotado → dividir el problema en pequeños pasos alcanzables.
+
+---
+
+## Principio central del sistema
+
+> “El objetivo no es terminar rápido una conversación, sino ayudar al usuario a tomar mejores decisiones financieras sintiéndose acompañado y en control.”
+
 
 ## - Demo de CreditIA
 https://credit-intelligence--kamilogamarra.replit.app/
