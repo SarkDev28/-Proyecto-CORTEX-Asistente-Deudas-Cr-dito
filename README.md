@@ -348,6 +348,45 @@ IF "problema" en mensaje:
 > “El objetivo no es terminar rápido una conversación, sino ayudar al usuario a tomar mejores decisiones financieras sintiéndose acompañado y en control.”
 
 
+
+## Semana 17: La Matriz de Empatia
+
+[ INICIO: Input del Usuario ]
+               |
+               v
+[ DETECTAR EMOCIÓN NEGATIVA / CRISIS ] 
+               |
+      +--------+--------+
+      |                 |
+      v                 v
+¿Insulto/Ira?     ¿Depresión Grave/Riesgo?
+      |                 |
+      |                 v
+      |       [ VALIDAR SENTIMIENTO ]
+      |       "Entiendo que esta situación financiera es sumamente abrumadora..."
+      |                 |
+      |                 v
+      |       [ ESCALAR INMEDIATAMENTE ]
+      |       Proporcionar Líneas de Ayuda Psicológica / Operador Humano.
+      |                 |
+      |                 v
+      |            [ FIN FLUJO ]
+      |
+      v
+[ VALIDAR SENTIMIENTO (Límites Claros) ]
+"Sé que estás frustrado por el estado de tu crédito, pero para ayudarte necesito que nos comuniquemos con respeto."
+      |
+      v
+[ REDIRIGIR A ACCIÓN SOLUBLE ]
+"Vamos a revisar las opciones disponibles para refinanciar o congelar tu saldo hoy."
+      |
+      v
+   [ FIN ]
+
+<img width="626" height="568" alt="image" src="https://github.com/user-attachments/assets/aeebe9b3-339a-442a-af41-dd4c15f8ec93" />
+
+
+
 ## - Demo de CreditIA
 https://credit-intelligence--kamilogamarra.replit.app/
 
