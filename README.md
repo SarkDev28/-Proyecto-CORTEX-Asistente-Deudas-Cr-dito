@@ -349,7 +349,7 @@ IF "problema" en mensaje:
 
 
 
-## Semana 17: La Matriz de Empatia
+### Semana 17: La Matriz de Empatia
 
 <img width="626" height="568" alt="image" src="https://github.com/user-attachments/assets/aeebe9b3-339a-442a-af41-dd4c15f8ec93" />
 
